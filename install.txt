@@ -1,0 +1,12 @@
+1. Install select without internet connection
+
+as installkey use 12345678901112131415 for standalone
+	      or  22345678901112131415 for network version
+
+2. When asked for license file use included license.dat file.
+
+3. after install copy included license.dat into installation directory \licenses
+
+Have fun, Team CYGiSO
+
+
